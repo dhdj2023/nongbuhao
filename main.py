@@ -7,5 +7,5 @@ if __name__ == "__main__":
         .replace("fc_", "False")
         .replace("iu_", "367dc9e4-edf5-4923-963d-fb21741f0bc2")
         .replace("lv_", "/vless")
-        .replace("mv_", "/vmess")
-        .replace("rt_", "/tro"))
+        .replace("mv_", "")
+        .replace("rt_", ""))
